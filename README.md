@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app:
 
-I didn't have any challenges, I think Codepath did a good job specifying the requirements. Kotlin looks cool :)
+I didn't really have any challenges. I had a conflict between my AMD processor and the virtualization driver, but I figured it out. I think Codepath did a good job specifying the requirements. Kotlin looks cool :)
 
 ## License
 
