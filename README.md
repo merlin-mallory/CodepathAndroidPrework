@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+I didn't have any challenges, I think Codepath did a good job specifying the requirements. Kotlin looks cool :)
 
 ## License
 
